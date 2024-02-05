@@ -1,0 +1,12 @@
+colacalc.prg
+
+=                  ; list of modules follows...
+
+calcs.s
+calc.c
+;TCnSTART.O          ; startup code
+
+pCSTDLIB.LIB       ; standard library
+pCTOSLIB.LIB       ; TOS library
+;TCGEMLIB.LIB       ; AES and VDI library
+;TCLNALIB.LIB

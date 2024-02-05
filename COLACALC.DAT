@@ -1,0 +1,42 @@
+ulh     Default display state
+4 61    Key to activate: Control-Undo
+
+* +     Add: +
+* -     Subtract: -
+* *     Multiply: *
+* /     Divide: /
+* %     Modulo: %
+* !     NOT: !
+* 7F    NEG: Delete
+* &     AND: &
+* |     OR: |
+* ^     XOR: ^
+0 4B    ROL: left arrow
+4 73    ASL: Control-left
+0 4D    ROR: right arrow
+4 74    ASR/LSR: Control-right
+8 19    PEEK BYTE: Alt-P
+2 19    PEEK WORD: Left Shift-P
+4 19    PEEK LONG: Control-P
+8 30    Byte: Alt-B
+8 11    Word: Alt-W
+8 26    Long: Alt-L
+0 16    Unsigned: U
+0 1f    Signed: S
+4 30    Binary: Control-B
+4 18    Octal: Control-O
+4 20    Decimal: Control-D
+4 23    Hex: Control-H
+
+2ADC    Value to assign to F1
+0       F2
+0       F3
+0       F4
+0       F5
+0       F6
+0       F7
+0       F8
+0       F9
+0       F10
+
+500     Screen buffer size in hex (see docs)
